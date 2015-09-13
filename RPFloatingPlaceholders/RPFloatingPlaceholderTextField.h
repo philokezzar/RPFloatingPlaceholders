@@ -50,6 +50,6 @@
 /**
  @discussion
  */
-@property (nonatomic, strong) CGFloat spaceBetweenPlaceholderAndTextField;
+@property CGFloat spaceBetweenPlaceholderAndTextField;
 
 @end
